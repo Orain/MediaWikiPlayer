@@ -1,0 +1,4 @@
+MediaWikiPlayer
+===============
+
+MediaWikiPlayer extension
